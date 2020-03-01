@@ -21,7 +21,7 @@ Code:
   -sprinting system
   -sprint pickup
   -throwable distraction item
-  -vacuum to scare the guard
+  -touching the vacuum cleaner to scare the guard
 
 Tech:
 	There are 3 different areas.
