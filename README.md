@@ -17,11 +17,7 @@ Code:
 	There is a NavMesh that lets the guard move around the level.
   Game can be paused and un-paused with P. 
   Supports keyboard and mouse controls.
-  These are the significant mechanics: 
-  -sprinting system
-  -sprint pickup
-  -throwable distraction item
-  -touching the vacuum cleaner to scare the guard
+  These are the significant mechanics: sprinting system, sprint pickup, throwable distraction item, and touching the vacuum cleaner to scare the guard.
 
 Tech:
 	There are 3 different areas.
